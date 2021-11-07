@@ -1,0 +1,6 @@
+type:
+  _target_: main.simple_preprocess
+  imputation_method: mean
+
+data_train: data/data-train-small.csv
+data_test: data/data-test-small.csv

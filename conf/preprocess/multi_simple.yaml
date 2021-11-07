@@ -1,0 +1,6 @@
+type:
+  _target_: main-multirun.simple_preprocess
+  imp_method_values: [mean, median]
+
+data_train: data/data-train-small.csv
+data_test: data/data-test-small.csv

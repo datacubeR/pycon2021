@@ -1,0 +1,7 @@
+type:
+  _target_: main.complex_preprocess
+  imputation_num: mean
+  imputation_cat: frequent
+
+data_train: data/data-train-large.csv
+data_test: data/data-test-large.csv

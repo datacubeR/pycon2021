@@ -1,0 +1,7 @@
+name: Multi Logistic Regression
+type:
+  _target_: main-multirun.log_reg
+  C:
+    low: 0.001
+    high: 100
+  fit_intercept: [false, true]

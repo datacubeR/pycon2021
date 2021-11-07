@@ -1,0 +1,7 @@
+type:
+  _target_: main-multirun.complex_preprocess
+  imputation_num: [mean, median]
+  imputation_cat: [frequent, missing]
+
+data_train: data/data-train-large.csv
+data_test: data/data-test-large.csv

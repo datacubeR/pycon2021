@@ -1,0 +1,5 @@
+name: Logistic Regression
+type:
+  _target_: main.LogisticRegression
+  C: 1
+  random_state: 123
