@@ -2,6 +2,8 @@
 
 Este es el código que utilicé como base en la demostración de la Charla en la Pycon2021. Siéntete libre de utilizarlo y experimentar con él a tu antojo, ojalá te sirva!! 🤘
 
+Pueden ver el video de Youtube [acá](https://youtu.be/qSn8in4QJYI?t=29158).
+
 ### Ejecución simple
 
 El código se puede ejecutar de la siguiente manera en Modo Simple:
